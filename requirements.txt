@@ -1,0 +1,8 @@
+pyserial~=3.5
+bitstring==2.2.0
+ecdsa~=0.19.0
+cryptography~=44.0.0
+reedsolo~=1.7.0
+makeelf~=0.3.4
+hexdump~=3.3
+esptool~=4.8.1
