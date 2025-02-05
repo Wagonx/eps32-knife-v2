@@ -6,10 +6,10 @@ Tools for ESP32 firmware dissection
 Original Repo: https://github.com/BlackVS/esp32knife
 
 ## Installation:
-1. git pull
-2. cd 
-3. python -m venv venv
-4. venv\scripts\activate.bat
+1. `git pull https://github.com/Wagonx/eps32-knife-v2.git`
+2. `cd eps32-knife-v2/`
+3. `python -m venv venv`
+4. `venv\scripts\activate.bat`
 
 
 ## Examples:
